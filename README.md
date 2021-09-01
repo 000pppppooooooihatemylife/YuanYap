@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yap Khai Yuan</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A intense frontend developer from Malaysia</h3>
 
 <h3 align="left">My socials:</h3>
 <p align="left">
