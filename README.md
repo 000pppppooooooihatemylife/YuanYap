@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yap Khai Yuan</h1>
 <h3 align="center">A maniacal developer from Malaysia</h3>
 
+![](https://visitor-badge.glitch.me/badge?page_id=yuanyap.yuanyap)
+
+
 <h3 align="left">My socials:</h3>
 <p align="left">
+  
+ 
+ 
 <a href="https://www.youtube.com/c/simply software" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simply software" height="30" width="40" /></a>
 </p>
 
