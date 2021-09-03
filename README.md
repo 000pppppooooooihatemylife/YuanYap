@@ -2,7 +2,6 @@
 <h3 align="center">A maniacal developer from Malaysia</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yuanyap.yuanyap)
-![](https://img.shields.io/badge/Youtube-Simply%20Software-red)
 
 <h3 align="left">My socials:</h3>
 <p align="left">
