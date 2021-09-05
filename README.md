@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuanyap&show_icons=true&locale=en&layout=compact" alt="yuanyap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanyap&show_icons=true&locale=en&hide_border=true" alt="yuanyap" /></p>
+<p>&nbsp;<img align="center" src="https://git-hub-profile-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en&hide_border=true" alt="yuanyap" /></p>
 
