@@ -51,12 +51,16 @@ No Activity tracked this Week
 
 
 
-
-
+<details>
+     <br/>
+<summary>GitHub Repositories Stats</summary>
+     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuanyap&show_icons=true&locale=en&layout=compact&hide_border=true" alt="yuanyap" /></p>
+<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en&hide_border=true)](https://github.com/sushmithas99/Car-Rental-System" alt="yuanyap" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en&hide_border=true" alt="yuanyap" /></p>
 
+ <br/>
 
+</details>
 
 
