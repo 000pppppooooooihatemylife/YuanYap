@@ -14,11 +14,11 @@
 
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Best Camera and Equipment for YouTube/Content Creation Beginners | Feat. Unreal Devon Wood](https://www.youtube.com/watch?v=h4kXbEsj5o8)
-- [Windows 11 First Look: Minimal, beautiful and awesome.](https://www.youtube.com/watch?v=VHzDgxr8N8I)
-- [White iPhone 12 Impressions and Review: Fast](https://www.youtube.com/watch?v=NqdV04HG3xQ)
-- [DaVinci Resolve 17 - Editing Your First Video #2](https://www.youtube.com/watch?v=_EUVaj44-t0)
-- [DaVinci Resolve 17 - BEST FREE Editing Software for Windows & Mac #1](https://www.youtube.com/watch?v=aZYmYq7Po1U)
+- [EP12 - Taliban uses SOCIAL MEDIA and more!](https://www.youtube.com/watch?v=2P2VFwPwm50)
+- [EP11 - FOLDING PHONES and more on Samsung Galaxy Unpacked Event!](https://www.youtube.com/watch?v=8eDJvpoDIWc)
+- [EP10 - Google Tensor and WhatsApp Self Destructing](https://www.youtube.com/watch?v=3JhAXkLdEl4)
+- [EP9 - Apple WWDC 2021 What 's New](https://www.youtube.com/watch?v=OQXXBdtXw-s)
+- [EP8 - OnePlus 9, OnePlus 9 Pro first look](https://www.youtube.com/watch?v=WoJp2Di-U0g)
 <!-- YOUTUBE:END -->
 
 ***
