@@ -65,7 +65,11 @@ npx yuanyap
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 21 mins    ██████████████▒░░░░░░░░░░   56.70 % 
+Markdown     21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+HTML         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 <!--END_SECTION:waka-->
 
