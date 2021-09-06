@@ -5,7 +5,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yuanyap.yuanyap)
 
-![Banner](Banner.png)
+![Banner](banner.png)
+
+***
 
 
 <h3 align="left">My socials:</h3>
