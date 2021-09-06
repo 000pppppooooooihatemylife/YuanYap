@@ -22,6 +22,12 @@
 - [DaVinci Resolve 17 - BEST FREE Editing Software for Windows & Mac #1](https://www.youtube.com/watch?v=aZYmYq7Po1U)
 <!-- YOUTUBE:END -->
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 ***
 
 <h3 align="left">My socials:</h3>
