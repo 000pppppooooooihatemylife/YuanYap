@@ -24,14 +24,12 @@
 ***
 
 
-## Code
+## GitHub Stats
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuanYap&show_icons=true&locale=en&layout=compact" alt="yapkhaiyuan" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en" alt="yapkhaiyusn" /></p>
 
 ***
 
@@ -53,10 +51,16 @@ No Activity tracked this Week
 
 <details>
      <br/>
-<summary>GitHub Repositories Stats</summary>
+<summary>Time spent on coding this week</summary>
      
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuanyap&show_icons=true&locale=en&layout=compact&hide_border=true" alt="yuanyap" /></p>
-<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en&hide_border=true)](https://github.com/sushmithas99/Car-Rental-System" alt="yuanyap" /></p>
+
+
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
  <br/>
