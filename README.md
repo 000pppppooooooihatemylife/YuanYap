@@ -12,6 +12,13 @@
 
 ***
 
+## My profile card
+
+```sh
+npx yuanyap
+```
+***
+
 ## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Best Camera and Equipment for YouTube/Content Creation Beginners | Feat. Unreal Devon Wood](https://www.youtube.com/watch?v=h4kXbEsj5o8)
