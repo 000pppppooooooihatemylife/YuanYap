@@ -13,7 +13,7 @@
 
 ***
 
-## 📺 Latest YouTube Videos
+## 📷 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Best Camera and Equipment for YouTube/Content Creation Beginners | Feat. Unreal Devon Wood](https://www.youtube.com/watch?v=h4kXbEsj5o8)
 - [Windows 11 First Look: Minimal, beautiful and awesome.](https://www.youtube.com/watch?v=VHzDgxr8N8I)
@@ -22,6 +22,10 @@
 - [DaVinci Resolve 17 - BEST FREE Editing Software for Windows & Mac #1](https://www.youtube.com/watch?v=aZYmYq7Po1U)
 <!-- YOUTUBE:END -->
 
+***
+
+
+## Code
 
 <!--START_SECTION:waka-->
 ```text
