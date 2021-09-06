@@ -3,7 +3,6 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
     - cron: "2 * * * *"
 
 jobs:
