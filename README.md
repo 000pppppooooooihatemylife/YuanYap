@@ -7,7 +7,6 @@
 
 ![Banner](banner.png)
 
-</p>
 <div size='20px'>I'm Yap Khai Yuan. Thank you for taking the time to view my GitHub Profile. 
 </div>
 
