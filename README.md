@@ -46,9 +46,9 @@ npx yuanyap
   <tr>
     <td align="center" width="96">
       <a href="#yapkhaichuen">
-        <img src="./img/angular-icon.svg" width="48" height="48" alt="Angular" />
+        <img src="./img/Electron_Software_Framework_Logo.svg" width="48" height="48" alt="Electron" />
       </a>
-      <br>Angular
+      <br>Electron
     </td>
     <td align="center" width="96">
       <a href="#yapkhaichuen">
