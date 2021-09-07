@@ -166,7 +166,7 @@ npx yuanyap
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuanYap&show_icons=true&locale=en&layout=compact" alt="yapkhaiyuan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en" alt="yapkhaiyusn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuanYap&show_icons=true&locale=en&count_private=true" alt="yapkhaiyuan" /></p>
 
 ***
 
